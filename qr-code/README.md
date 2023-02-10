@@ -42,4 +42,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Website - [Adam Anderson](https://www.adamadam.dev)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/developer-3)
+- Frontend Mentor - [@developer-3](https://www.frontendmentor.io/profile/developer-3)
