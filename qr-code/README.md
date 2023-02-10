@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/developer-3/frontend-mentor-challenges/tree/main/qr-code)
-- Live Site URL: [Add live site URL here](https://dev3-fm-qr-code.deno.dev/)
+- Solution URL: [Solution](https://github.com/developer-3/frontend-mentor-challenges/tree/main/qr-code)
+- Live Site URL: [Live Site](https://dev3-fm-qr-code.deno.dev/)
 
 ## My process
 
